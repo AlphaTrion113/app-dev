@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-### 🎥 My Favorite Movie: *Transformers One*
+### My Favorite Movie: *Transformers One*
 **Director:** Josh Cooley
 **Release Date:** September 20 2024
 **Genre:** Sci-Fi
